@@ -165,7 +165,6 @@ const paulKerannePressKit: PressKitConfig = {
         icon: "map-pin",
         items: [
           "Jungle Beatz",
-          "Café Oz Châtelet",
           "Balajo",
           "The Bridge",
           "Deflower",
