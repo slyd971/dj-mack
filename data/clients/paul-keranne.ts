@@ -384,6 +384,21 @@ const paulKerannePressKit: PressKitConfig = {
         alt: "Paul-Keranne - scène",
         position: "center 50%",
       },
+      {
+        src: "/paul-keranne/gallery/gallery-pk7.jpeg",
+        alt: "Paul-Keranne - live",
+        position: "center 50%",
+      },
+      {
+        src: "/paul-keranne/gallery/gallery-pk8.jpeg",
+        alt: "Paul-Keranne - ambiance",
+        position: "center 50%",
+      },
+      {
+        src: "/paul-keranne/gallery/gallery-pk9.jpeg",
+        alt: "Paul-Keranne - set",
+        position: "center 50%",
+      },
     ],
   },
 };
