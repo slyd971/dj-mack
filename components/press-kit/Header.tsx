@@ -165,8 +165,7 @@ export function Header({ artist, navigation, ui, homeHref = "/" }: HeaderProps) 
                 : "px-3 py-2.5 text-[10px] tracking-[0.2em] sm:px-4"
             }`}
           >
-            <span className="sm:hidden">Book</span>
-            <span className="hidden sm:inline">{navigation.cta.label}</span>
+            {navigation.cta.label}
           </a>
 
           <a

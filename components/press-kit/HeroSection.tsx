@@ -423,7 +423,7 @@ export function HeroSection({
         animate="visible"
       >
         <div className="grid items-center gap-6 md:gap-8 lg:grid-cols-[minmax(0,0.96fr)_minmax(360px,0.86fr)] lg:gap-10">
-          <motion.div className="order-1 relative z-10" variants={heroContainerReveal}>
+          <motion.div className="order-1 relative z-10 lg:-ml-2 xl:-ml-4" variants={heroContainerReveal}>
             {hasEyebrow && (
               <motion.div
                 variants={heroReveal}
