@@ -464,7 +464,7 @@ const mackPressKitFr: PressKitConfig = {
 
 export const djMackClient: ClientConfig = {
   slug: "dj-mack",
-  domain: "djmack.presskit.fr",
+  domain: "dj-mack.presskit.fr",
   vercelSubdomain: "dj-mack.vercel.app",
   name: "DJ MACK",
   tagline: "International DJ & MC - Afro-Caribbean - Paris based",
