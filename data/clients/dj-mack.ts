@@ -278,6 +278,12 @@ const mackPressKitEn: PressKitConfig = {
         description: "A second live moment from the DJ MACK universe.",
         src: "/mack/videos/video-2.mp4",
       },
+      {
+        id: "dj-mack-video-3",
+        title: "Live clip 03",
+        description: "",
+        src: "/mack/videos/video-3.mp4",
+      },
     ],
   },
   spotify: {
