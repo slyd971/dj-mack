@@ -373,7 +373,7 @@ const mackPressKitFr: PressKitConfig = {
   metadata: {
     title: "DJ MACK | Press kit DJ & MC international",
     description:
-      "Découvrez DJ MACK, DJ & MC international basé à Paris, host officiel de Karukera One Love et figure de la scène afro-caribéenne européenne.",
+      "Découvrez DJ MACK, DJ & MC international basé à Paris, host officiel de Karukera One Love et figure incontournable de la scène Afro-Caribéenne en Europe.",
   },
   ui: {
     openMenuLabel: "Ouvrir le menu",
@@ -391,7 +391,7 @@ const mackPressKitFr: PressKitConfig = {
       { label: "Galerie", href: "#gallery" },
       { label: "Vidéos", href: "#videos" },
       { label: "SoundCloud", href: "#sound" },
-      { label: "Action", href: "#brands" },
+      { label: "Flyers", href: "#brands" },
     ],
     cta: {
       label: "Booker DJ MACK",
@@ -401,15 +401,15 @@ const mackPressKitFr: PressKitConfig = {
   },
   artist: {
     ...mackPressKitEn.artist,
-    stageLabel: "DJ & MC international - Paris - Monde",
+    stageLabel: "DJ & MC international - Paris - International",
   },
   heroVariants: {
     impact: {
       ...mackPressKitEn.heroVariants.impact,
-      eyebrow: "Afro-Caribéen - Soca - Amapiano - Dancehall",
+      eyebrow: "Afro-Caribéen - Soca - Bouyon - Amapiano - Dancehall",
       accent: "DJ & MC international",
       description:
-        "Figure majeure de la scène afro-caribéenne européenne, DJ MACK relie ses racines congolaises et guadeloupéennes à une énergie club internationale, des platines au micro.",
+        "Figure incontournable de la scène Afro-Caribéenne en Europe, DJ MACK maîtrise avec la même virtuosité les sonorités Afro pointues et l'énergie pure des musiques caribéennes.",
       ctas: [
         { label: "Booker DJ MACK", href: "#contact", variant: "primary" },
         { label: "Écouter", href: "#sound", variant: "secondary" },
@@ -418,16 +418,16 @@ const mackPressKitFr: PressKitConfig = {
         { value: "20 ANS", label: "Carrière" },
         { value: "DJ & MC", label: "Format international" },
         { value: "HOST OFFICIEL", label: "Karukera One Love" },
-        { value: "PARIS", label: "Base" },
+        { value: "PARIS", label: "Basé en France" },
       ],
-      proofline: "French Soca Crew - We Are Soca - Carnavals - Festivals",
+      proofline: "French Soca Crew - We Are Soca - Carnavals majeurs - Festivals",
     },
     interactive: {
       ...mackPressKitEn.heroVariants.interactive,
       eyebrow: "Contrôle du public - Énergie micro - Scènes internationales",
       accent: "LIVE",
       description:
-        "Aussi précis aux platines qu'au micro, DJ MACK transforme les grands événements en célébrations collectives avec un instinct rare du rythme, du timing et du public.",
+        "Aussi redoutable aux platines qu'au micro, DJ MACK fédère les foules massives tout en conservant une atmosphère intensément conviviale.",
       ctas: [
         { label: "Vidéos", href: "#videos", variant: "primary" },
         { label: "Galerie", href: "#gallery", variant: "secondary" },
@@ -435,7 +435,7 @@ const mackPressKitFr: PressKitConfig = {
       stats: [
         { value: "SOCA", label: "Pulsation caribéenne" },
         { value: "AFRO", label: "Amapiano & Afrobeats" },
-        { value: "MC", label: "Énergie live" },
+        { value: "MC", label: "Entertainer complet" },
         { value: "MONDE", label: "Scènes internationales" },
       ],
       proofline: "Notting Hill - Miami - Berlin - Rotterdam - Genève",
@@ -445,7 +445,7 @@ const mackPressKitFr: PressKitConfig = {
       eyebrow: "Scène afro-caribéenne européenne",
       accent: "GLOBAL",
       description:
-        "Né Stéphane, DJ MACK rassemble héritage congolais et guadeloupéen dans un langage de performance pensé pour carnavals, festivals, clubs et événements culturels à haute énergie.",
+        "Porté par une double identité congolaise et guadeloupéenne, DJ MACK représente fièrement la France sur les scènes internationales.",
       ctas: [
         { label: "Contact", href: "#contact", variant: "primary" },
         { label: "Références", href: "#clubs", variant: "secondary" },
@@ -456,22 +456,21 @@ const mackPressKitFr: PressKitConfig = {
         { value: "3 ÉDITIONS", label: "Ibiza Soca Festival" },
         { value: "FRANCE", label: "Tournées nationales" },
       ],
-      proofline: "Un couteau suisse du live entertainment.",
+      proofline: "Un véritable couteau suisse de l'ambiance.",
     },
   },
   about: {
     ...mackPressKitEn.about,
     eyebrow: "Bio",
-    title: "Force afro-caribéenne,\nénergie MC, instinct global.",
+    title: "Figure Afro-Caribéenne,\nMC hors norme.",
     signatureQuote:
-      "DJ MACK ne se contente pas de jouer de la musique. Il dirige la salle.",
+      "DJ MACK ne se contente pas de mixer: il retourne la scène.",
     supportingText:
-      "DJ & MC international basé à Paris, porté par un héritage congolais et guadeloupéen.",
+      "DJ & MC international basé à Paris, porté par une double identité congolaise et guadeloupéenne.",
     paragraphs: [
-      "DJ MACK est une figure majeure de la scène afro-caribéenne européenne. Né Stéphane, il puise son énergie dans un double héritage congolais et guadeloupéen.",
-      "Représentant la France sur la scène internationale, il relie deux mondes musicaux: les grooves afro, de l'Amapiano à l'Afrobeats, et l'intensité caribéenne de la Soca et du Dancehall.",
-      "Aussi puissant aux platines qu'au micro, il transforme les grands événements en célébrations collectives grâce à une énergie magnétique et une vraie maîtrise MC.",
-      "Host officiel du festival Karukera One Love, DJ officiel de French Soca Crew et cofondateur du mouvement We Are Soca, DJ MACK impose une présence culturelle, rythmique et scénique forte.",
+      "Figure incontournable de la scène Afro-Caribéenne en Europe, DJ MACK, de son vrai nom Stéphane, puise sa force dans une double identité culturelle puissante: congolaise et guadeloupéenne. Représentant fièrement la France à l'international, il se distingue par sa capacité rare à maîtriser et sublimer deux univers distincts avec la même virtuosité: les sonorités pointues de l'Afro, de l'Amapiano à l'Afrobeats, et l'énergie pure des musiques caribéennes, de la Soca au Bouyon, du son d'Ennery au JabJab et au Dancehall.",
+      "Véritable couteau suisse de l'ambiance, il est aussi redoutable aux platines qu'au micro. MC hors norme doté d'une énergie contagieuse que les promoteurs s'arrachent, il possède ce don unique de fédérer les foules massives tout en conservant une atmosphère intensément conviviale. C'est cette dimension d'entertainer complet qui a fait de lui le Host officiel du mythique festival Karukera One Love.",
+      "DJ officiel du French Soca Crew, institution célébrant ses 15 ans d'impact, et cofondateur du mouvement We Are Soca, DJ MACK ne se contente pas de mixer: il retourne la scène.",
     ],
   },
   clubs: {
@@ -519,8 +518,8 @@ const mackPressKitFr: PressKitConfig = {
     ...mackPressKitEn.sound,
     title: "DJ MACK\nsur SoundCloud.",
     paragraphs: [
-      "Entrez dans l'univers sonore de DJ MACK: Soca, Dancehall, Amapiano, Afrobeats et sélections afro-caribéennes pensées pour le mouvement.",
-      "Son SoundCloud donne un accès direct au pont entre pulsation caribéenne et groove afro qui définit son identité live.",
+      "Entrez dans l'univers sonore de DJ MACK: Soca, Bouyon, Dancehall, Amapiano, Afrobeats et sélections Afro-Caribéennes pensées pour le mouvement.",
+      "Son SoundCloud donne un aperçu direct de cette passerelle entre pulsation caribéenne, groove afro et énergie live.",
     ],
     cta: {
       label: "Écouter sur SoundCloud",
@@ -531,18 +530,18 @@ const mackPressKitFr: PressKitConfig = {
   },
   brands: {
     ...mackPressKitEn.brands,
-    title: "Des flyers comme preuves,\ndes scènes comme terrain.",
+    title: "Des flyers comme preuves,\ndes scènes comme terrain de jeu.",
     intro:
-      "Un mur de flyers façon blog pour montrer le mouvement derrière le nom: carnavals, soirées Soca, clubs et événements culturels.",
+      "Un mur de flyers pour montrer le mouvement derrière le nom: carnavals, soirées Soca, clubs, festivals et événements culturels.",
     supportingText:
-      "Chaque visuel documente une présence terrain: communautés actives, formats récurrents et promoteurs qui lui confient l'énergie de la salle.",
+      "Chaque visuel documente une présence terrain réelle: des communautés actives, des formats récurrents et des promoteurs qui lui confient l'énergie de la salle.",
     fit: {
-      eyebrow: "Pourquoi ca compte",
-      title: "Pensé pour les salles\nqui ont besoin d'impact.",
+      eyebrow: "Pourquoi ça compte",
+      title: "Pensé pour les événements\nqui ont besoin d'impact.",
       points: [
-        "Un profil DJ & MC capable d'animer, guider les transitions et tenir le fil de l'événement.",
-        "Une identité afro-caribéenne forte entre Soca, Dancehall, Amapiano et Afrobeats.",
-        "Des références internationales qui rassurent promoteurs, festivals et événements culturels.",
+        "Un profil DJ & MC capable d'animer, de guider les temps forts et de tenir le fil de l'événement.",
+        "Une identité Afro-Caribéenne forte entre Soca, Bouyon, Dancehall, Amapiano et Afrobeats.",
+        "Des références internationales solides pour rassurer promoteurs, festivals et événements culturels.",
       ],
     },
   },
@@ -550,18 +549,18 @@ const mackPressKitFr: PressKitConfig = {
     ...mackPressKitEn.videos,
     title: "DJ MACK en live.",
     description:
-      "Une sélection d'extraits montrant la présence scénique, l'énergie micro et la connexion afro-caribéenne de DJ MACK avec le public.",
+      "Une sélection d'extraits qui montre la présence scénique, l'énergie micro et la connexion immédiate de DJ MACK avec le public.",
     items: [
       {
         id: "dj-mack-video-1",
         title: "Extrait live 01",
-        description: "DJ MACK en action, entre énergie public et présence MC.",
+        description: "DJ MACK en action, entre énergie du public, présence MC et contrôle de la salle.",
         src: "/mack/videos/video-1.mp4",
       },
       {
         id: "dj-mack-video-2",
         title: "Extrait live 02",
-        description: "Un deuxième moment live dans l'univers DJ MACK.",
+        description: "Un deuxième moment live pour ressentir son univers Afro-Caribéen.",
         src: "/mack/videos/video-2.mp4",
       },
       {
@@ -578,9 +577,9 @@ const mackPressKitFr: PressKitConfig = {
   },
   contact: {
     ...mackPressKitEn.contact,
-    title: "Booking & demandes.",
+    title: "Réservations & demandes pro.",
     description:
-      "Pour festivals, carnavals, clubs, événements privés et bookings internationaux, contactez l'équipe DJ MACK.",
+      "Pour festivals, carnavals, clubs, événements privés ou demandes internationales, contactez directement l'équipe DJ MACK.",
     methods: [
       {
         label: "Email",
@@ -608,16 +607,16 @@ const mackPressKitFr: PressKitConfig = {
     ...mackPressKitEn.gallery,
     title: "Galerie",
     description:
-      "Sélection de visuels presse et live de DJ MACK, sans la photo hero, autour de la performance et de l'énergie afro-caribéenne.",
-    homepageTitle: "Preuve visuelle",
+      "Sélection de visuels presse et live de DJ MACK, centrée sur la performance, la présence scénique et l'énergie Afro-Caribéenne.",
+    homepageTitle: "Présence visuelle",
     homepageCtaLabel: "Ouvrir la galerie",
   },
   footer: {
     availabilityText:
-      "Disponible pour carnavals, festivals, clubs, événements privés et formats afro-caribéens internationaux.",
+      "Disponible pour carnavals, festivals, clubs, événements privés et formats Afro-Caribéens internationaux.",
     navigationLabel: "Navigation",
     socialLabel: "Réseaux",
-    bookingLabel: "Booking",
+    bookingLabel: "Réservations",
     fullGalleryLabel: "Galerie complète",
     allVideosLabel: "Toutes les vidéos",
   },
@@ -702,17 +701,17 @@ export const djMackClient: ClientConfig = {
     {
       title: "Carnavals & festivals",
       description:
-        "Énergie DJ & MC afro-caribéenne pour grandes scènes culturelles et formats festivals portés par la Soca.",
+        "Énergie DJ & MC Afro-Caribéenne pour grandes scènes culturelles, carnavals et formats festivals portés par la Soca.",
     },
     {
       title: "Clubs & tournées",
       description:
-        "Sets Soca, Dancehall, Amapiano et Afrobeats à fort impact pour clubs en France et à l'international.",
+        "Sets Soca, Bouyon, Dancehall, Amapiano et Afrobeats à fort impact pour clubs en France et à l'international.",
     },
     {
       title: "Hosting & MC",
       description:
-        "Présence micro, gestion du public et fluidité événementielle pour les formats qui ont besoin d'un vrai host.",
+        "Présence micro, gestion du public et énergie d'entertainer pour les formats qui ont besoin d'un vrai host.",
     },
   ],
   seo: {
