@@ -532,9 +532,9 @@ const mackPressKitFr: PressKitConfig = {
     ...mackPressKitEn.brands,
     title: "Un parcours visible,\ndes événements qui parlent.",
     intro:
-      "Un mur de flyers pour montrer le mouvement derrière le nom: carnavals, soirées Soca, clubs, festivals et événements culturels.",
+      "Ces flyers retracent les événements qui ont marqué le parcours de DJ MACK: carnavals, soirées Soca, clubs, festivals et rendez-vous culturels.",
     supportingText:
-      "Chaque visuel documente une présence terrain réelle: des communautés actives, des formats récurrents et des promoteurs qui lui confient l'énergie de la salle.",
+      "Ils montrent une présence régulière sur le terrain, auprès de publics fidèles et de promoteurs qui lui font confiance pour porter l'énergie de leurs événements.",
     fit: {
       eyebrow: "Pourquoi ça compte",
       title: "Pensé pour les événements\nqui ont besoin d'impact.",
